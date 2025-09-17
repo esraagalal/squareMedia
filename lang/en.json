@@ -1,0 +1,60 @@
+{
+    "nav": {
+    "home": "Home",
+    "about": "About",
+    "services":"Services",
+    "provider":"Provider",
+    "clients":"Clients",
+    "contact": "Contact",
+    "arabic":"العربية",
+    "english":"English"
+  },
+  "home":{
+    "about":{
+      "title1":"We are the reality required to deliver your imagination",
+      "paragraph1":"Your best professional destination for producing drama, cinema and all media-related events We’ve an integrated team of marketers and full logistics services in order to show the image you want",
+      "readMore":"Read More",
+      "slogan":"We Are Experts in Quality Service for The Best Products",
+      "who":"Who We Are",
+      "p2":"Square Media Production is one of the region’s premier creators of high-quality media content, including television programs, drama series, advertising campaigns, films, and multi-platform media productions."
+    },
+    "gallery":{
+      "title":"Gallery"
+    },
+    "clients":"Our Clients",
+    "testimonials":"Testimonials"
+  },
+  "series":{
+    "weBennaMeaad1":"We Benna Meaad Season 1",
+    "trailer":"Trailer",
+    "drama":"Drama",
+    "romance":"Romance",
+    "comedy":"Comedy",
+    "social":"Social",
+    "family":"Family",
+    "synopsis":"Synopsis",
+    "author":"Author: ",
+    "hanyKamal":"Hany Kamal",
+    "director":"Director: ",
+    "actor":"Actor",
+    "cast":"Cast",
+    "benaMeaad":{
+      "date":"January 1, 2023",
+      "ep":"30 Episodes",
+      "day":"1",
+      "month":"January",
+      "year":"2023",
+      "synopsis":"The series follows the intertwined lives of two very different families. When circumstances force them to live under one roof, their children’s daily clashes spark endless drama and comedy. Amidst the chaos, Hassan and Nadia—who begin as adversaries—gradually find themselves drawn together. What starts as hostility slowly evolves into an unexpected bond, as both families navigate love, conflicts, and the challenges of building a new life together.",
+      "shreenReda":"Shreen Reda",
+      "sabryFawaz": "Sabry Fawaz",
+      "basma":"Basma",
+      "medhatSaleh":"Medhat Saleh",
+      "MohmedMahran":"Mohmed Mahran",
+      "WafaaSadeq":"Wafaa Sadeq",
+      "MohamedSoliman":"Mohamed Soliman",
+      "NadiaRashad":"Nadia Rashad"
+
+    }
+  }
+
+}
